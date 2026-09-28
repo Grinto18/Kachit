@@ -1,0 +1,6 @@
+{
+  "name": "القصر الذهبي POS",
+  "description": "نظام كاشير وإدارة مطعم القصر الذهبي المتكامل - حسين داي، الجزائر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
